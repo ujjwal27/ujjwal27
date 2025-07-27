@@ -1,5 +1,3 @@
-# ujjwalvaddepati
-
 I am a software engineer with 14+ years of experience building robust, scalable, and resilient systems. My expertise spans across cloud infrastructure, system design, distributed systems, developer tooling, and full-stack product engineering.
 
 Currently, I’m focused on architecting microservices at scale using AWS CDK, Lambda, SQS, DynamoDB, and New Relic observability. I’ve worked extensively on cloud-native payment gateways, multi-tenant SaaS platforms, and real-time messaging systems, driving initiatives in reliability, security, and performance.
