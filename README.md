@@ -29,7 +29,7 @@ I am a software engineer with 14+ years of experience building large-scale, clou
 
 ### 💡 Current Focus
 
-- Cracking FAANG interviews: DSA in Go + System Design
+- Preparing for FAANG interviews: DSA in Go + System Design
 - Building open-source tools for infra and payments
 - Blogging and documenting real-world system learnings
 
