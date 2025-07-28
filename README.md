@@ -8,9 +8,6 @@
   <a href="https://linkedin.com/in/ujjwalvaddepati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/ujjwal27" target="_blank">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ujjwal27.visitor-badge" alt="visitor badge"/>
-  </a>
 </p>
 
 ---
