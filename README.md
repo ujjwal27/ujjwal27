@@ -4,12 +4,6 @@
   🚀 <b>Software Engineer</b> | ☁️ <b>Cloud-Native Architect</b> | 💳 <b>Payments Systems</b> | 💼 <b>FinTech Enthusiast</b>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ujjwalvaddepati" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
